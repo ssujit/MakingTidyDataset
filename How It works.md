@@ -4,7 +4,7 @@ More informaiton can be found https://www.coursera.org
 Course name: Datascience Specilization - Getting and Cleaning Data 
 
 ### GOAL 
-Collection of raw data and making a tidy data set after required cleaning
+To collect raw data and make a tidy data set after conducting required cleaning and munipulation
 
 ### DATA SOURCE
  Data should be downloaded here https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
