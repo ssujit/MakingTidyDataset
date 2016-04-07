@@ -12,7 +12,7 @@ Collection of raw data and making a tidy data set after required cleaning
 
 ### Working with script
  - The script run_analysis.R should be oped in R environment
- - The woring directory has to be set where downloaded file has been unziped
+ - The working directory has to be set where downloaded file has been unziped
 
 ### Steps to follow
 The whole process involves 5 major Task
